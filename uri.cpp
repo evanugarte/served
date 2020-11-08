@@ -20,7 +20,7 @@
  * SOFTWARE.
  */
 
-#include <uri.hpp>
+#include "served/uri.hpp"
 
 namespace served {
 

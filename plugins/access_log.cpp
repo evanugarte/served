@@ -25,7 +25,7 @@
 #include <boost/date_time/posix_time/posix_time.hpp>
 #include <boost/date_time/posix_time/posix_time_io.hpp>
 
-#include <plugins.hpp>
+#include "served/plugins/plugins.hpp"
 
 namespace served { namespace plugin {
 

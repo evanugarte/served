@@ -23,8 +23,8 @@
 #ifndef SERVED_REQUEST_PARSER_IMPL_HPP
 #define SERVED_REQUEST_PARSER_IMPL_HPP
 
-#include <request_parser.hpp>
-#include <request.hpp>
+#include "served/request_parser.hpp"
+#include "served/request.hpp"
 
 #include <sstream>
 

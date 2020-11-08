@@ -29,7 +29,7 @@
 #include <memory>
 #include <string>
 
-#include <status.hpp>
+#include "served/status.hpp"
 
 namespace served {
 

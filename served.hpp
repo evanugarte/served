@@ -23,7 +23,7 @@
 #ifndef SERVED_HPP
 #define SERVED_HPP
 
-#include <net/server.hpp>
-#include <multiplexer.hpp>
+#include "served/net/server.hpp"
+#include "served/multiplexer.hpp"
 
 #endif // SERVED_HPP

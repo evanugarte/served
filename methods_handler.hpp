@@ -26,9 +26,9 @@
 #include <map>
 #include <vector>
 #include <functional>
-#include <methods.hpp>
-#include <request.hpp>
-#include <response.hpp>
+#include "served/methods.hpp"
+#include "served/request.hpp"
+#include "served/response.hpp"
 
 namespace served {
 

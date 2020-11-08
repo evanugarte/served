@@ -27,11 +27,11 @@
 #include <tuple>
 #include <vector>
 #include <functional>
-#include <methods.hpp>
-#include <methods_handler.hpp>
-#include <request.hpp>
-#include <response.hpp>
-#include <mux/segment_matcher.hpp>
+#include "served/methods.hpp"
+#include "served/methods_handler.hpp"
+#include "served/request.hpp"
+#include "served/response.hpp"
+#include "served/mux/segment_matcher.hpp"
 
 namespace served {
 

@@ -26,7 +26,7 @@
 #include <string>
 #include <regex>
 
-#include <segment_matcher.hpp>
+#include "served/mux/segment_matcher.hpp"
 
 namespace served { namespace mux {
 
