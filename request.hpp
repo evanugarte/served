@@ -26,9 +26,9 @@
 #include <string>
 #include <unordered_map>
 
-#include <methods.hpp>
-#include <uri.hpp>
-#include <parameters.hpp>
+#include "served/methods.hpp"
+#include "served/uri.hpp"
+#include "served/parameters.hpp"
 
 namespace served {
 

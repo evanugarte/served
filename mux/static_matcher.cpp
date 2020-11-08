@@ -20,7 +20,7 @@
  * SOFTWARE.
  */
 
-#include <static_matcher.hpp>
+#include "served/mux/static_matcher.hpp"
 
 namespace served { namespace mux {
 

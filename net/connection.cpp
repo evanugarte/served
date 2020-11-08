@@ -20,10 +20,10 @@
  * SOFTWARE.
  */
 
-#include <status.hpp>
-#include <connection.hpp>
-#include <connection_manager.hpp>
-#include <request_error.hpp>
+#include "served/net/status.hpp"
+#include "served/net/connection.hpp"
+#include "served/net/connection_manager.hpp"
+#include "served/net/request_error.hpp"
 
 #include <utility>
 #include <vector>

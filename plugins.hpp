@@ -23,8 +23,8 @@
 #ifndef SERVED_PLUGINS_HPP
 #define SERVED_PLUGINS_HPP
 
-#include <response.hpp>
-#include <request.hpp>
+#include "served/response.hpp"
+#include "served/request.hpp"
 #include <functional>
 
 namespace served { namespace plugin {

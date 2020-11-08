@@ -23,8 +23,8 @@
 #include <algorithm>
 #include <sstream>
 
-#include <version.hpp>
-#include <response.hpp>
+#include "served/version.hpp"
+#include "served/response.hpp"
 
 namespace served {
 

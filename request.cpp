@@ -23,7 +23,7 @@
 #include <algorithm>
 #include <locale>
 
-#include <request.hpp>
+#include "served/request.hpp"
 
 namespace served {
 

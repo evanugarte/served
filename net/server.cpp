@@ -24,7 +24,7 @@
 #include <utility>
 #include <thread>
 
-#include <server.hpp>
+#include "served/net/server.hpp"
 
 using namespace served;
 using namespace served::net;

@@ -20,7 +20,7 @@
  * SOFTWARE.
  */
 
-#include <regex_matcher.hpp>
+#include "served/mux/regex_matcher.hpp"
 #include <stdexcept>
 
 namespace served { namespace mux {

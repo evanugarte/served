@@ -20,8 +20,8 @@
  * SOFTWARE.
  */
 
-#include <parameters.hpp>
-#include <multiplexer.hpp>
+#include "served/parameters.hpp"
+#include "served/multiplexer.hpp"
 
 namespace served {
 

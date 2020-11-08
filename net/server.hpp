@@ -25,8 +25,8 @@
 
 #include <boost/asio.hpp>
 #include <string>
-#include <connection_manager.hpp>
-#include <multiplexer.hpp>
+#include "served/net/connection_manager.hpp"
+#include "served/net/multiplexer.hpp"
 
 namespace served { namespace net {
 
