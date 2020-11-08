@@ -25,10 +25,10 @@
 
 #include <boost/asio.hpp>
 
-#include "served/net/multiplexer.hpp"
-#include "served/net/response.hpp"
-#include "served/net/request.hpp"
-#include "served/net/request_parser_impl.hpp"
+#include "served/multiplexer.hpp"
+#include "served/response.hpp"
+#include "served/request.hpp"
+#include "served/request_parser_impl.hpp"
 
 #include <array>
 #include <memory>
