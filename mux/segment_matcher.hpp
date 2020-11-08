@@ -26,7 +26,7 @@
 #include <string>
 #include <memory>
 
-#include "served/mux/parameters.hpp"
+#include "served/parameters.hpp"
 
 namespace served { namespace mux {
 
