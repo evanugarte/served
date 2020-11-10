@@ -23,7 +23,7 @@
 #include "served/status.hpp"
 #include "served/net/connection.hpp"
 #include "served/net/connection_manager.hpp"
-#include "served/net/request_error.hpp"
+#include "served/request_error.hpp"
 
 #include <utility>
 #include <vector>
