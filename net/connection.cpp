@@ -25,6 +25,7 @@
 #include "served/net/connection_manager.hpp"
 #include "served/request_error.hpp"
 
+#include <iostream>
 #include <utility>
 #include <vector>
 
@@ -115,8 +116,9 @@ connection::do_read()
 						_response.set_header("Content-Type", e.get_content_type());
 						_response.set_body(e.what());
 					}
-					catch (...)
+					catch (const served::request_error & e)
 					{
+						std::cout << e.what() << std::endl;
 						response::stock_reply(status_5XX::INTERNAL_SERVER_ERROR, _response);
 					}
 
